@@ -33,7 +33,7 @@ GIF created with ...
 - Snapchat
      Deleteing messages after 24 hours
      Stories/Private stories
--TikTok
+- TikTok
      Short content that you can scroll through
      Filters
 Idea:
