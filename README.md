@@ -36,7 +36,7 @@ GIF created with ...
 - TikTok
      Short content that you can scroll through
      Filters
-Idea:
+- Idea:
      A university specific pomodoro app. You set a timer and then then if you exit the app,
      then you lose your time. After each sucessful pomodoro period, it adds to your total
      amount. There will be a leader board in which the top 10 will win lion a certain amount 
